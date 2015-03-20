@@ -1,0 +1,5 @@
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\QMSAPIStarter.exe.config
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\QMSAPIStarter.exe
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\QMSAPIStarter.pdb
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Release\QMSAPIStarter.exe
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Release\QMSAPIStarter.pdb
