@@ -17,4 +17,6 @@ IMPORANT: To change the QMS URL edit the .config file ("address" part on rows 35
 
 If you receiving "cannot reach QMS" make sure port 4799 is open to accept requests or try and remove " , Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" from the .config file
 	
-Also make sure that the user, under which the app is started, is member of QlikView Management API group.	
+Also make sure that the user, under which the app is started, is member of QlikView Management API group.
+
+The file call_from_node.js include a sample code that can be used to call the app from Node.js
