@@ -1,5 +1,0 @@
-C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\QV_GetActiveUsersDocs.exe.config
-C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\QV_GetActiveUsersDocs.exe
-C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\QV_GetActiveUsersDocs.pdb
-C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Debug\QV_GetActiveUsersDocs.exe
-C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Debug\QV_GetActiveUsersDocs.pdb

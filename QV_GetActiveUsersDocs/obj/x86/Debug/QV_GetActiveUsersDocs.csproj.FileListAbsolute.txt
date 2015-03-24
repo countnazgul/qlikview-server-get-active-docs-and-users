@@ -1,0 +1,13 @@
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\QV_GetActiveUsersDocs.exe.config
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\QV_GetActiveUsersDocs.exe
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\QV_GetActiveUsersDocs.pdb
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Debug\QV_GetActiveUsersDocs.exe
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Debug\QV_GetActiveUsersDocs.pdb
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\README.txt
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\app.config
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\call_from_node.js
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Debug\CommandLine.dll
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Debug\QV_GetActiveUsersDocs.csprojResolveAssemblyReference.cache

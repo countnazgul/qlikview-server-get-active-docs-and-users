@@ -1,0 +1,12 @@
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\QV_GetActiveUsersDocs.exe.config
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\QV_GetActiveUsersDocs.exe
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\QV_GetActiveUsersDocs.pdb
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Release\QV_GetActiveUsersDocs.exe
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\obj\x86\Release\QV_GetActiveUsersDocs.pdb
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\README.txt
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\app.config
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\call_from_node.js
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\Newtonsoft.Json.dll
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\Newtonsoft.Json.pdb
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\Newtonsoft.Json.xml
+C:\Users\adm-s7729841\Desktop\QMSAPIStarter\QMSAPIStarter\bin\Release\CommandLine.dll
